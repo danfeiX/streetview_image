@@ -11,6 +11,7 @@ import math
 # See https://developers.google.com/maps/documentation/streetview/
 API_KEY = "INSERT_YOUR_API_KEY_HERE"
 GOOGLE_URL = "http://maps.googleapis.com/maps/api/streetview?sensor=false&size=640x640"
+#GOOGLE_URL = "http://maps.googleapis.com/maps/api/streetview?sensor=false&size=640x640" + API_KEY #Uncomment this line if you have a Google API Key
 
 
 
